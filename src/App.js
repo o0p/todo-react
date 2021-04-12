@@ -1,8 +1,6 @@
 import Header from './components/Header';
 
 function App() {
-  const name = 'Tom';
-
   return (
     <div className="container">
       <Header />
