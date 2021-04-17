@@ -40,7 +40,7 @@ function App() {
     setTasks(
       tasks.map((task) =>
         task.id === id ? { ...task, reminder: !task.reminder } : task
-      )``
+      )
     );
   };
 
