@@ -15,7 +15,7 @@
     {
       "text": "Buy miso",
       "day": "today",
-      "reminder": false,
+      "reminder": true,
       "id": 5
     },
     {
