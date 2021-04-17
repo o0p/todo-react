@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Finish stat tracker",
+      "day": "Mon",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Deploy app",
+      "day": "Tue",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Reschedule date with Lizzy",
+      "day": "Fri",
+      "reminder": false
+    }
+  ]
+}
