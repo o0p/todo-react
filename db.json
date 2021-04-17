@@ -7,16 +7,22 @@
       "reminder": true
     },
     {
-      "id": 2,
-      "text": "Deploy app",
-      "day": "Tue",
-      "reminder": true
+      "text": "Buy tofu",
+      "day": "Friday, 12:42",
+      "reminder": true,
+      "id": 4
     },
     {
-      "id": 3,
-      "text": "Reschedule date with Lizzy",
-      "day": "Fri",
-      "reminder": false
+      "text": "Buy miso",
+      "day": "today",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "Kombu kelp",
+      "day": "",
+      "reminder": false,
+      "id": 6
     }
   ]
 }
